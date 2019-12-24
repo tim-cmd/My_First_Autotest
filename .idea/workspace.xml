@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e9c4534-dbc5-4962-a3b9-b9d99f869d84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UZYCDElIIuj6E9KQWnYzVxKpxr" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/QA" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainRunner">
+    <configuration name="Feature: PlayAll" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/PlayAll.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Cucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: PlayAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: PlayAllTracks" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/PlayAllTracks.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Cucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: PlayAllTracks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Play all available tracks of required artist and add it to favorites" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/PlayAll.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Cucumber" />
+      <option name="NAME_FILTER" value="^Play all available tracks of required artist and add it to favorites$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Play all available tracks of required artist and add it to favorites$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Play all available tracks of required artist and add it to favorites" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mixcloud.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mixcloud.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="mixcloud.cucumber.MainRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayAllSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mixcloud.cucumber.steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mixcloud.cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="mixcloud.cucumber.steps.PlayAllSteps" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainRunner" />
+        <item itemvalue="JUnit.PlayAllSteps" />
+        <item itemvalue="Cucumber java.Scenario: Play all available tracks of required artist and add it to favorites" />
+        <item itemvalue="Cucumber java.Feature: PlayAll" />
+        <item itemvalue="Cucumber java.Feature: PlayAllTracks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e9c4534-dbc5-4962-a3b9-b9d99f869d84" name="Default Changelist" comment="" />
+      <created>1575565454235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575565454235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="258" width="482" height="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575885864651">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="291" y="258" width="482" height="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1575885864651" />
+    <state x="341" y="301" width="508" height="387" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1575567990942" />
+    <state x="432" y="204" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1575977881913">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="432" y="204" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.738@0.0.1366.738" timestamp="1575977881912" />
+    <state x="531" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575573285632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="531" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1575573285632" />
+    <state x="497" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575572011334">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="497" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1575572011334" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1575977951233">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1575977951233" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1576701952457">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576701952457" />
+    <state width="1554" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1575572839402" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1576701952457">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576701952457" />
+    <state width="1554" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1575572839401" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1576701952457">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576701952457" />
+    <state width="1554" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1575572839401" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1576701952457">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576701952457" />
+    <state width="1554" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1575572839401" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1575575514564">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1575575514564" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1575575514564">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1575575514564" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1575575514564">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1575575514564" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1575575514564">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1575575514564" />
+    <state x="260" y="21" key="SettingsEditor" timestamp="1575890981860">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="260" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1575890981860" />
+    <state x="304" y="64" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1575571687486" />
+    <state x="493" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1575566647419">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="493" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1575566647419" />
+  </component>
+</project>
